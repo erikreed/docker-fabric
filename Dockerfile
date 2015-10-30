@@ -1,6 +1,6 @@
 FROM python:2.7
 
-MAINTAINER Ole Christian Langfjæran <judoole@gmail.com>
+MAINTAINER SG Finans <frontutvikling@sgfinans.no>
 
 RUN pip install fabric
 
