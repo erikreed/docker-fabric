@@ -5,7 +5,7 @@ An image for running [Fabric](http://www.fabfile.org/) commands.
 
 Example:
 
-```docker run --rm -v $PWD:/app judoole/fabric hello```
+```docker run --rm -v $PWD:/app sgfinans/fabric hello```
 
 Given the following fabfile.py
 ```python
